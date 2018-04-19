@@ -11,9 +11,10 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm start
 ```
 
-### TODO: 
-> Host the project on herokuapplication or setup any CI process for the same.
-> Modify the chart-library to use Re-charts.
-> Add a country selector to give the users ability to use a country.
-> Draw the x-axis and y-axis with a proper readable variables.
-> Use Material-UI to further expand the application.
+### TODO:
+
+- Host the project on herokuapplication or setup any CI process for the same.
+- Modify the chart-library to use Re-charts.
+- Add a country selector to give the users ability to use a country.
+- Draw the x-axis and y-axis with a proper readable variables.
+- Use Material-UI to further expand the application.
