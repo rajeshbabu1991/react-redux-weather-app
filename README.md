@@ -1,4 +1,4 @@
-# React Redux Simple Menu
+# React Redux Weather App
 
 A react-redux weather application using openweather api. The application also uses a react-promise middleware which modifies the action state before it reaches the reducers. We are using sparklines for the project. The boilerplate code is an extension of ReactReduxSimpleStarter code from Stephen Grider.
 
